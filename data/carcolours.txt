@@ -1,0 +1,17 @@
+white,138
+silver,133
+black,129
+red,58
+dark silver,40
+blue,31
+dark red,18
+dark blue,6
+gold,6
+dark green,4
+light blue,4
+brown,3
+orange,2
+green,2
+yellow,1
+pink,1
+dark gold,1
